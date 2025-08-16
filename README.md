@@ -1,8 +1,5 @@
 A comprehensive, interactive project management dashboard designed specifically for client presentations and project tracking. This web-based tool provides a professional visualization of your development workflow across multiple project types.
 
-Live Demo:
-
-
 Key Features:
 Real-time progress indicators with animated progress bars
 Phase-based timeline visualization with completion status
